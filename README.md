@@ -17,16 +17,10 @@ A página apresenta notícias e informações sobre a Universidade Federal de Mi
 
 A seção de notícias exibe uma grade de notícias, cada uma com uma imagem, título, e descrição. Abaixo de cada notícia, há um link para saber mais sobre ela.
 
-![Notícias](https://umfg.edu.br/wp-content/uploads/2023/05/version1uuidAB6E5A0F-0C20-4C7E-8F1D-D6EBF235DA06modecompatiblenoloc0.jpeg.jpg)
-
 ## Cursos
 
 A seção de cursos apresenta alguns cursos oferecidos pela UMFG, cada um com uma imagem e uma descrição.
 
-![Cursos](https://umfg.edu.br/wp-content/uploads/2021/01/icon-administracao.png)
-
 ## Rodapé
 
 No rodapé da página, há o logo da universidade.
-
-![Logo da UMFG](https://cursos.umfg.edu.br/wp-content/themes/facec-cursos/assets/img/logo-cinza2.png)
