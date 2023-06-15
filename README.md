@@ -1,7 +1,5 @@
 # Página de Notícias UMFG
 
-Este é um arquivo `readme.md` que ilustra a página de notícias da UMFG.
-
 **Para acessar o ambiente administrativo, utilize as seguintes credenciais:**
 
 - Email: admin@admin.com
@@ -9,7 +7,7 @@ Este é um arquivo `readme.md` que ilustra a página de notícias da UMFG.
 
 ## Descrição
 
-A página apresenta notícias e informações sobre a Universidade Federal de Minas Gerais (UMFG). Ela exibe uma barra lateral, um cabeçalho com o logo da universidade e um link para acessar a área administrativa.
+A página apresenta notícias e informações sobre a Faculdade UMFG. Ela exibe uma barra lateral, um cabeçalho com o logo da universidade e um link para acessar a área administrativa.
 
 ![Página de Notícias UMFG](https://umfg.edu.br/wp-content/uploads/2020/03/foto-novo-campus-scaled.jpg)
 
